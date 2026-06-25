@@ -25,4 +25,3 @@ This is a simple Job Portal website built using HTML, CSS, and JavaScript.
 - User login system
 
  ## 🌐 Live Demo
- - https://anushkasricodes07.github.io/Job-Portal/
